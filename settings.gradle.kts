@@ -19,5 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
+
+
 rootProject.name = "UsarFire"
 include(":app")

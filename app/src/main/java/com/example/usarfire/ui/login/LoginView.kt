@@ -26,12 +26,10 @@ import androidx.navigation.compose.rememberNavController
 import com.example.usarfire.ui.theme.Purple40
 import com.example.usarfire.ui.theme.UsarFireTheme
 
-private val compose: Any
 
 @Composable
 fun LoginView(
     navController: NavController,
-    modifier: Modifier = Modifier
 ) {
     val viewModel: LoginViewModel = viewModel()
     val uiState = viewModel.uiState.value
