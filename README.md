@@ -1,5 +1,5 @@
-#Lista de Tarefas com Firebase
-##Projeto Realizado para a cadeira de Programação de Dispositivos Móveis
+# Lista de Tarefas com Firebase
+### Projeto Realizado para a cadeira de Programação de Dispositivos Móveis
 
 # Funcionalidades Implementadas
 
